@@ -1,0 +1,16 @@
+{
+  "name": "moralis-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@moralisweb3/common-evm-utils": "^2.22.3",
+    "moralis": "^2.22.3",
+    "node-fetch": "^3.3.1"
+  }
+}
